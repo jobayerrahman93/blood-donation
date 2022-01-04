@@ -15,7 +15,7 @@ const Hero = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, dolore ut. Numquam impedit vel, harum ea sapiente delectus non aliquid molestiae repudiandae ipsam aperiam ratione aliquam quaerat iure! Necessitatibus ullam ipsam sunt aliquid deleniti hic quas harum voluptatibus a cumque ad, quod aliquam dolorum quidem dolor nihil molestias vel recusandae. Aliquam optio quasi, officiis temporibus quo voluptate quae debitis adipisci?
           </p>
 
-          <button class="rounded-full bg-pink-500 py-2 px-4 font-semibold text-indigo-50 tracking-wide mt-8">Learn More</button>
+          <button class="rounded-full  py-2 px-4 font-semibold text-indigo-50 tracking-wide bg-red-500 mt-8 hover:bg-pink-500">Learn More</button>
 
         </div>
       </div>
